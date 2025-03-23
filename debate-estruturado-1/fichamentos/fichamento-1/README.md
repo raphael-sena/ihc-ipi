@@ -5,13 +5,13 @@ KOX, Thomas et al. **Towards user-orientated weather warnings**. International J
 ## 1. Fichamento de Conteúdo
 
 O artigo aborda uma temática de clima, onde o foco principal é o usuário final, usuário final este que pode ser de muitas vertentes populacionais, como o público em geral ou entidades governamentais, como brigadas de incêndios, etc -- E foi realizado um estudo com base no sistema de alerta climático alemão: Deutscher Wetterdienst (DWD). Este sistema é composto de uma implementação de 3 níveis. Quando é claro que atinge um nível de precisão alto é enviado um alerta de terceiro nível com 12 horas de antecedência individualmente aos estados. Estes níveis são emitidos por meteorologistas com auxílio do sistema automatizado.  
-Foi realizada uma oficina com 111 participantes distribuídos em 5 estados diferentes, participantes estes que eram do Comando de bombeiros, associações de bombeiros, DWD, pesquisadores (ciências, ciências sociais), entre outros, e foram vistos resultados sobre "bons alertas" com base em reconhecimento de requisições espaciais e temporais, aceitabilidade (impactos de falsos alarmes), relevância da informação, compreensibilidade, requisitos técnicos e cooperação entre usuários e meteorologistas. Foi tirado como resultado que a qualidade de previsões baseadas em impacto só é possível diante de uma cooperação entre usuários finais e o serviços meteorológico.
+Foi realizada uma oficina com participantes de 5 estados diferentes, participantes estes que eram do Comando de bombeiros, associações de bombeiros, DWD, pesquisadores, entre outros, e foram vistos resultados sobre "bons alertas" com base em reconhecimento de requisições espaciais e temporais, aceitabilidade (impactos de falsos alarmes), relevância da informação, compreensibilidade, requisitos técnicos e cooperação entre usuários e meteorologistas. Foi tirado como resultado que a qualidade de previsões baseadas em impacto só é possível diante de uma cooperação entre usuários finais e o serviços meteorológico.
 
 ## 2. Fichamento Bibliográfico 
 
-* _Deutscher Wetterdienst (DWD): Serviço nacional de meteorologia alemã._
-* _End-users_ (usuários finais): são os usuários que interagem com os sistemas de previsão de tempo, como brigadas de incêndio, por exemplo.
-* _World Café (Cafeteria Mundial): é um método que reúne diferentes perspectivas que, quando confrontadas, levam para um debate com resultados combinados._
+* _Deutscher Wetterdienst (DWD)_: Serviço nacional de meteorologia alemã (página 74).
+* _End-users_ (usuários finais): são os usuários que interagem com os sistemas de previsão de tempo, como brigadas de incêndio, por exemplo (página 75).
+* _World Café (Cafeteria Mundial)_: é um método que reúne diferentes perspectivas que, quando confrontadas, levam para um debate com resultados combinados (página 77).
 
 ## 3. Fichamento de Citações 
 
